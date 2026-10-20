@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Jose Anoob
+#  Jose Anoob
 ### *Software Engineer • AI & Computer Vision • Full-Stack Systems Architect*
 
 <!-- Dynamic Typing SVG Banner -->
