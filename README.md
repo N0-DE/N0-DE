@@ -284,7 +284,7 @@ Beyond high-level software engineering, I develop hardware-interfacing firmware 
   <tr>
     <td>
       <a href="https://github.com/N0-DE">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0-DE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Jose's GitHub Stats" height="165" />
+        <img src="https://github-readme-stats.vercel.app/api?username=N0-DE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="Jose's GitHub Stats" height="165" />
       </a>
     </td>
     <td>
@@ -297,7 +297,7 @@ Beyond high-level software engineering, I develop hardware-interfacing firmware 
 
 <!-- Top Languages Donut Chart -->
 <a href="https://github.com/N0-DE">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=N0-DE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0-DE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </a>
 
 </div>
